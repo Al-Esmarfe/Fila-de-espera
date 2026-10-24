@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FilasDeEsperaApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(FilasDeEsperaApplication.class, args);
+
+        System.out.println("FilasDeEsperaApplication");
+
     }
 
 }
